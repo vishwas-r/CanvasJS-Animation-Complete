@@ -1,5 +1,7 @@
 # CanvasJS Chart Animation Complete
-This plugin allows you to bind animationComplete event handler in CanvasJS Chart. Animation Complete Event gets fired after the dataseries has finished its initial animation. Checkout Live Example [Here](https://vishwas-r.github.io/CanvasJS-Chart-Animation-Complete/)
+This plugin allows you to bind animationComplete event handler in CanvasJS Chart. Animation Complete Event gets fired after the dataseries has finished its initial animation. 
+
+### [Live Example](https://vishwas-r.github.io/CanvasJS-Chart-Animation-Complete/)
 
 ## How to Use?
 ```javascript
