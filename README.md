@@ -1,0 +1,1 @@
+# CanvasJS-Chart-Animation-Complete
